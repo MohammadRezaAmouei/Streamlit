@@ -1,0 +1,24 @@
+body {
+    background-color: #f0f2f6;
+    color: #333;
+}
+h1 {
+    color: #0066cc;
+    text-align: center;
+}
+.stButton>button {
+    background-color: #0066cc;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 16px;
+    margin: 10px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.stButton>button:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #0066cc;
+}
